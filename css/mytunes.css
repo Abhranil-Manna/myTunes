@@ -1,0 +1,108 @@
+.head{
+	text-align: center;
+	width: 90%;
+    margin-left: 80px;
+    font-size: 4rem;
+}
+.para{
+	text-align: center;
+	width: 90%;
+    margin-left: 80px;
+    padding-bottom: 30px;
+    font-size: 1.5rem;
+}
+.head1{
+	text-align: center;
+	width: 90%;
+    margin-left: 80px;
+    padding: 30px 0px;
+    font-size: 2rem;
+}
+
+#topcontainer{
+	background-image: url(https://images.pexels.com/photos/33597/guitar-classical-guitar-acoustic-guitar-electric-guitar.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-size: cover;
+	color: #fff;
+	padding-bottom:120px;
+	font-family: 'Architects Daughter', cursive;
+
+}
+.div1{
+	padding: 100px 0px;
+}
+#middlecontainer{
+	background-color: #000;
+	padding: 50px 0px;
+	color: #fff;
+	font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+.head2{
+	text-align: center;
+	width: 90%;
+    margin-left: 80px;
+    padding: 30px 0px;
+}
+.classic{
+	padding: 50px 0px;
+	background-image: url(https://images.pexels.com/photos/365633/pexels-photo-365633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	font-family: 'Tenali Ramakrishna', sans-serif;
+
+}
+.img2{
+	text-align: center;
+	width: 90%;
+    margin-left: 80px;
+    margin-bottom: 50px;
+}
+.hey{
+	margin-left:45%;
+	margin-bottom: 30px;
+	padding:15px;
+	color: #fff;
+	background-color: red;
+	border:none;
+	font-family: 'Bitter', serif;
+}
+.img3{
+	width: 30%;
+	float: left;
+	margin-right: 20px;
+	
+}
+#container4{
+       width: 90%;
+       margin-left:80px;
+       margin-top: 50px;
+       text-align: left;
+       font-family: 'Tenali Ramakrishna', sans-serif;
+      
+
+}
+.kl{
+	line-height: 1.8;
+}
+.play{
+
+	font-size: 20px;
+	font-family: 'Shadows Into Light', cursive;
+	color: #0046c7;
+}
+#container3{
+	font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.nav-link{
+	font-size:20px;
+	font-family: bold;
+}
+
+.img1{
+	width:400px;
+	margin-left: 80px;
+}
+.qr{
+	margin-left: 80px;
+}
