@@ -17,7 +17,7 @@
 }
 
 #topcontainer{
-	background-image: url(https://images.pexels.com/photos/33597/guitar-classical-guitar-acoustic-guitar-electric-guitar.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-image: url(https://ma-hub.imgix.net/wp-images/2019/05/04185051/royalty-free-music-Background.jpg?w=1600&h=850&auto=format);
 	background-size: cover;
 	color: #fff;
 	padding-bottom:120px;
@@ -28,9 +28,9 @@
 	padding: 100px 0px;
 }
 #middlecontainer{
-	background-color: #000;
+	background-color: #454647;
 	padding: 50px 0px;
-	color: #fff;
+	color: #1bcbd1;
 	
 }
 
@@ -105,5 +105,20 @@ button{
 }
 .jk{
     font-size:20px;
+}
+.carousel .carousel-item {
+  height:400px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit:cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
 }
 
